@@ -1,4 +1,5 @@
-import '@types/youtube';
+/*import '@types/youtube'; */
+import 'youtube';
 import { EventEmitter } from '@angular/core';
 
 export interface IPlayerOutputs {
